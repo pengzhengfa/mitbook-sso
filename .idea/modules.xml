@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mitbok-sso-core/mitbok-sso-core.iml" filepath="$PROJECT_DIR$/mitbok-sso-core/mitbok-sso-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mitbook-sso.iml" filepath="$PROJECT_DIR$/mitbook-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mitbook-sso-server/mitbook-sso-server.iml" filepath="$PROJECT_DIR$/mitbook-sso-server/mitbook-sso-server.iml" />
+    </modules>
+  </component>
+</project>

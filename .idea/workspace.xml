@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7031f1a-0062-4746-80ff-826e9667c61e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VKIXhpBVO1f0NdfUd7UhzwLzh0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mitbook-sso-server/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\mitbook-sso\mitbook-sso-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MitbookSsoServerApplication">
+    <configuration name="MitbokSsoCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mitbok-sso-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mitbook.MitbokSsoCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MitbookSsoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mitbook-sso-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mitbook.MitbookSsoServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7031f1a-0062-4746-80ff-826e9667c61e" name="Default Changelist" comment="" />
+      <created>1576995400043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576995400043</updated>
+      <workItem from="1576995405194" duration="569000" />
+      <workItem from="1576995990724" duration="1296000" />
+      <workItem from="1576997299054" duration="2103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1576996282130">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576996282130" />
+    <state width="1202" height="223" key="GridCell.Tab.0.bottom" timestamp="1576998852272">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="223" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576998852272" />
+    <state width="1202" height="223" key="GridCell.Tab.0.center" timestamp="1576998852272">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="223" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576998852272" />
+    <state width="1202" height="223" key="GridCell.Tab.0.left" timestamp="1576998852272">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="223" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576998852272" />
+    <state width="1202" height="223" key="GridCell.Tab.0.right" timestamp="1576998852272">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="223" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576998852272" />
+    <state width="1202" height="223" key="GridCell.Tab.1.bottom" timestamp="1576998852274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="223" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576998852274" />
+    <state width="1202" height="223" key="GridCell.Tab.1.center" timestamp="1576998852273">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="223" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576998852273" />
+    <state width="1202" height="223" key="GridCell.Tab.1.left" timestamp="1576998852272">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="223" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576998852272" />
+    <state width="1202" height="223" key="GridCell.Tab.1.right" timestamp="1576998852274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="223" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576998852274" />
+    <state width="1202" height="323" key="GridCell.Tab.2.bottom" timestamp="1576998797973">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="323" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576998797973" />
+    <state width="1202" height="323" key="GridCell.Tab.2.center" timestamp="1576998797973">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="323" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1576998797973" />
+    <state width="1202" height="323" key="GridCell.Tab.2.left" timestamp="1576998797972">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="323" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1576998797972" />
+    <state width="1202" height="323" key="GridCell.Tab.2.right" timestamp="1576998797973">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="323" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1576998797973" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1576995973510">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576995973510" />
+    <state x="253" y="40" width="773" height="600" key="find.popup" timestamp="1576999142380">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="253" y="40" width="773" height="600" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1576999142380" />
+    <state x="28" y="42" key="new project wizard" timestamp="1576996162204">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="42" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1576996162204" />
+    <state x="342" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1576997803666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1576997803666" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mitbok-sso-core/src/main/java/com/mitbook/util/JedisUtil.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mitbok-sso-core/src/main/java/com/mitbook/util/JedisUtil.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

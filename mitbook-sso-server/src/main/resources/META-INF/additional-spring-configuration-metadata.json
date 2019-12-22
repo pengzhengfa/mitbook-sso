@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mitbook.sso.redis.password",
+      "type": "java.lang.String",
+      "description": "Description for mitbook.sso.redis.password."
+  }
+] }
